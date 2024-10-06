@@ -18,13 +18,13 @@ Before running the project locally, please ensure you have a Google Cloud (GCP) 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/varun-456/Thuli-Dress-Recommendation.git)
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Thuli-Dress-Recommendation
 ```
 
 Install dependencies
